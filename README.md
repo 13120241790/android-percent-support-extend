@@ -21,7 +21,7 @@ contains project for android studio and eclipse .
 * 支持通过app:layout_textSizePercent设置textView的textSize
 
 
-
+test 
 
 
 we not only support fraction value , but also we support use fraction value based on width or height  , such as 10% , 10%w , 10%h 。 
